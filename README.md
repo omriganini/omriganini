@@ -1,6 +1,10 @@
-### Hi there I am Omri Ganini from Petah Tikva 👋
+## Hi there I am Omri Ganini, I am 24 years old from Petah Tikva <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">
+
+### About Me 🚀
+* 🌱 I’m currently learning DevOps bootcamp at [Sela college](https://www.sela.co.il/) by "Sela Group"
+* 📫 You can contact me via : [Linkedin](https://il.linkedin.com/in/omri-ganini-b46539225) or [Email](mailto:omriganini6@gmail.com?subject=Hey%20Omri%20I%20arrived%20from%20Github)
 
 
- 🌱 I’m currently learning DevOps bootcamp at [Sela college](https://www.sela.co.il/) by "Sela Group"
-- 📫 You can contact me via:
--  [<a href="url"><img src="https://user-images.githubusercontent.com/105926044/174308223-c7dfc3b6-fc55-4d64-ab8d-ba64f12337c1.png" align="left" height="48" width="48" ></a>](https://il.linkedin.com/in/omri-ganini-b46539225)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omriganini)](https://github.com/omriganini/github-readme-stats)
