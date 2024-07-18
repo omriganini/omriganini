@@ -1,4 +1,4 @@
-## Hi there I am Omri Ganini, I am 25 years old from Petah Tikva <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">
+## Hi there I am Omri Ganini, I am 26 years old from Petah Tikva <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">
 
 ### About Me 🚀
 * 🌱 I was learning DevOps bootcamp at [Sela college](https://www.sela.co.il/) by "Sela Group"
